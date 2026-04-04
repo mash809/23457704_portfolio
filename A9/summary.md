@@ -1,0 +1,1 @@
+I identified several online privacy techniques, including private browsing or incognito mode, cookie consent controls, two-factor authentication, and VPN usage. These techniques help reduce tracking, protect user identity, and give people greater control over their personal information while browsing or using online services.
