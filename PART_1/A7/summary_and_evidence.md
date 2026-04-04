@@ -1,2 +1,3 @@
 Modern networks commonly use WPA2 or WPA3 in Wi-Fi, VPN encryption for secure private communication, SSH for secure remote access, and digital certificates for authentication. My own Wi-Fi, for example, uses WPA/WPA2-Personal, which is a practical example of encryption and authentication being used in a modern network environment.
+
 <img width="482" height="415" alt="Modern_network" src="https://github.com/user-attachments/assets/4a365dd6-0ad8-4dc1-b092-86130b949e2a" />
