@@ -1,0 +1,3 @@
+Some common cryptographic implementations used online include HTTPS for secure web browsing, email security for protecting communication, and cloud security for safeguarding data stored on online platforms. These technologies rely on encryption to keep information confidential and reduce the risk of unauthorised access while data is being transmitted or stored.
+<img width="523" height="30" alt="Browser_padlock" src="https://github.com/user-attachments/assets/52747595-40ca-452b-91b6-ceaad4cca08f" />
+<img width="472" height="236" alt="Certificate" src="https://github.com/user-attachments/assets/2333f493-99d2-4443-a139-004b300a3e9e" />
