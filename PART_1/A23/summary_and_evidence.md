@@ -1,0 +1,4 @@
+I enhanced cybersecurity at home by reviewing app permissions, enabling multi-factor authentication, updating devices and applications, and improving device passwords. These changes strengthened the security of the home environment by reducing unnecessary access, improving account protection, and ensuring that devices were running more secure and up-to-date software.<img width="937" height="842" alt="Screenshot 2026-04-04 145559" src="https://github.com/user-attachments/assets/3e989838-500e-4832-8430-1bb679336df2" />
+![App_protection](https://github.com/user-attachments/assets/23f63a59-c6dc-4e72-a6bc-439141d41b86)
+![Security](https://github.com/user-attachments/assets/c5abaaf1-0017-486c-acdc-20ff35617b15)
+<img width="937" height="842" alt="Screenshot 2026-04-04 145559" src="https://github.com/user-attachments/assets/b59aff21-1986-4fa3-a8c2-a6bb97efde65" />
