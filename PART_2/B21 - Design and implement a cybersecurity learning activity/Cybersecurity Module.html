@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cybersecurity Learning Activity</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    body {
+      background: #f4f7fb;
+      color: #1f2937;
+      line-height: 1.6;
+    }
+
+    header {
+      background: linear-gradient(135deg, #0f172a, #1e3a8a);
+      color: white;
+      padding: 50px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 2.4rem;
+      margin-bottom: 10px;
+    }
+
+    header p {
+      font-size: 1.1rem;
+      max-width: 800px;
+      margin: auto;
+    }
+
+    .container {
+      max-width: 1000px;
+      margin: 30px auto;
+      padding: 0 20px;
+    }
+
+    .card {
+      background: white;
+      margin-bottom: 25px;
+      padding: 25px;
+      border-radius: 14px;
+      box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+    }
+
+    h2 {
+      color: #1e3a8a;
+      margin-bottom: 12px;
+    }
+
+    ul, ol {
+      margin-left: 25px;
+      margin-top: 10px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .example-box {
+      background: #eef2ff;
+      border-left: 5px solid #1e3a8a;
+      padding: 15px;
+      border-radius: 8px;
+      margin-top: 10px;
+    }
+
+    .password-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 15px;
+    }
+
+    .password-table th,
+    .password-table td {
+      border: 1px solid #d1d5db;
+      padding: 12px;
+      text-align: left;
+    }
+
+    .password-table th {
+      background: #1e3a8a;
+      color: white;
+    }
+
+    .weak {
+      color: #dc2626;
+      font-weight: bold;
+    }
+
+    .strong {
+      color: #16a34a;
+      font-weight: bold;
+    }
+
+    .activity-note {
+      background: #fff7ed;
+      border-left: 5px solid #f97316;
+      padding: 15px;
+      border-radius: 8px;
+      margin-top: 10px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #0f172a;
+      color: white;
+      margin-top: 40px;
+    }
+
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 1.8rem;
+      }
+
+      .card {
+        padding: 18px;
+      }
+
+      .password-table th,
+      .password-table td {
+        font-size: 0.9rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Cybersecurity Learning Activity</h1>
+    <p>Understanding why strong passwords matter and how weak passwords can be guessed through brute force attacks.</p>
+  </header>
+
+  <main class="container">
+    <section class="card">
+      <h2>Activity Title</h2>
+      <p><strong>Understanding Why Strong Passwords Matter</strong></p>
+    </section>
+
+    <section class="card">
+      <h2>Objective</h2>
+      <p>
+        The aim of this activity is to help students understand how weak passwords can be guessed easily and why strong passwords are important for protecting accounts and personal information.
+      </p>
+    </section>
+
+    <section class="card">
+      <h2>Activity Description</h2>
+      <p>
+        In this activity, students test different sample passwords and compare how strong or weak they are. The activity shows how simple passwords, such as names, birthdays, or common words, can be guessed quickly, while longer passwords with a mix of letters, numbers, and symbols are much harder to break.
+      </p>
+    </section>
+
+    <section class="card">
+      <h2>Materials Needed</h2>
+      <ul>
+        <li>A computer</li>
+        <li>Internet access</li>
+        <li>A password strength checker website</li>
+        <li>Examples: Bitwarden Password Strength Tester or Security.org Password Checker</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>Steps</h2>
+      <ol>
+        <li>Create five example passwords.</li>
+        <li>Include weak passwords such as <strong>password123</strong> or <strong>student2026</strong>.</li>
+        <li>Include stronger passwords such as a long passphrase with random words, numbers, and symbols.</li>
+        <li>Enter each sample password into a password strength checker.</li>
+        <li>Record how long the tool estimates it would take to crack each password.</li>
+        <li>Compare the results and identify what made some passwords weak and others strong.</li>
+        <li>Write a short reflection explaining what was learned.</li>
+      </ol>
+
+      <div class="activity-note">
+        <strong>Important:</strong> Do not test your real password. Only use fake sample passwords for this activity.
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Example Password Comparison</h2>
+      <table class="password-table">
+        <tr>
+          <th>Password Example</th>
+          <th>Strength</th>
+          <th>Reason</th>
+        </tr>
+        <tr>
+          <td>password123</td>
+          <td class="weak">Weak</td>
+          <td>Common and easy to guess.</td>
+        </tr>
+        <tr>
+          <td>student2026</td>
+          <td class="weak">Weak</td>
+          <td>Uses a common word and predictable year.</td>
+        </tr>
+        <tr>
+          <td>BlueTiger!Runs47Cloud</td>
+          <td class="strong">Strong</td>
+          <td>Longer, harder to guess, and uses different character types.</td>
+        </tr>
+      </table>
+    </section>
+
+    <section class="card">
+      <h2>Example Result</h2>
+      <div class="example-box">
+        <p>
+          A password like <strong>password123</strong> may be cracked very quickly because it is common and predictable. A password like <strong>BlueTiger!Runs47Cloud</strong> is much stronger because it is longer and harder to guess.
+        </p>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Learning Outcome</h2>
+      <p>
+        By completing this activity, students learn that password length and unpredictability are more important than simply adding one number or symbol. They also learn that strong passwords reduce the risk of brute force attacks and unauthorised access.
+      </p>
+    </section>
+
+    <section class="card">
+      <h2>Reflection</h2>
+      <p>
+        This activity helped me understand that weak passwords are one of the easiest ways for attackers to access accounts. I learned that using personal information or common words makes a password unsafe. A strong password should be long, unique, and difficult to guess. This activity also showed me why using different passwords for different accounts and enabling two-factor authentication is important.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Cybersecurity Learning Activity | Password Safety Awareness</p>
+  </footer>
+</body>
+</html>
