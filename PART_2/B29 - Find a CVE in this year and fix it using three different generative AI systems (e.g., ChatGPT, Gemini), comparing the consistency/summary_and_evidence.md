@@ -1,4 +1,4 @@
-For this activity, I selected CVE-2026-6973, which affects Ivanti Endpoint Manager Mobile (EPMM). It is an improper input validation vulnerability affecting on-premises EPMM before 12.6.1.1, 12.7.0.1, and 12.8.0.1, and it allows a remotely authenticated administrator to achieve remote code execution. The main official fix is to update to one of the patched versions.
+I selected CVE-2026-6973, which affects Ivanti Endpoint Manager Mobile (EPMM). It is an improper input validation vulnerability affecting on-premises EPMM before 12.6.1.1, 12.7.0.1, and 12.8.0.1, and it allows a remotely authenticated administrator to achieve remote code execution. The main official fix is to update to one of the patched versions.
 
 I then compared responses from ChatGPT, Gemini, and Claude on how to fix or mitigate this vulnerability. All three systems were highly consistent on the main remediation: patching is the primary and most important fix. All three also agreed that configuration changes alone are not sufficient, because the root cause is inside the product’s input validation logic and must be corrected by the vendor patch.
 
