@@ -1,4 +1,4 @@
-I participated in 3 lab activities
+I participated in three in-class lab activities
 
 
 Access Control
