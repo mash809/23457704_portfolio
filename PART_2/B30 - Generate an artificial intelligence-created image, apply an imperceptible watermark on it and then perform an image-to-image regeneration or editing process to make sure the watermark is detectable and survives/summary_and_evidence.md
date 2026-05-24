@@ -8,6 +8,12 @@ The practical application of this activity is in artificial intelligence content
 
 This activity helped me understand that cybersecurity is not only about protecting systems and networks, but also about protecting the trustworthiness and origin of digital content. Imperceptible watermarking is a promising idea for verifying artificial intelligence-generated media, but it must be robust enough to survive changes to be practically useful.
 
+
+Before Watermark
 <img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/0a745687-5bfd-4d4e-887e-81174737592e" />
 
+
+
+
+After Watermark
 <img width="1122" height="1402" alt="watermarked" src="https://github.com/user-attachments/assets/c824e816-8657-49ce-907b-ea2dc1b438b5" />
