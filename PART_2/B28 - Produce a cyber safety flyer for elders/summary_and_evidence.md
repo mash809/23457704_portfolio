@@ -1,2 +1,5 @@
 I produced a cyber safety flyer for older adults focused on phishing scams. The flyer was designed to be simple, clear, and easy to read, with large headings, short warning points, and practical safety advice. It explained what phishing is, common warning signs such as urgent messages and suspicious links, and simple protective steps such as not clicking unknown links, never sharing passwords or one-time codes, and checking with a trusted family member if unsure.
+
+The practical application of this flyer is cyber safety awareness for older adults, who are often targeted by phishing emails, scam texts, and fake phone calls. By using a flyer format, the information can be shared in a way that is quick to read and easy to remember. The final message of the flyer, “Pause. Verify. Protect yourself.”, was included to give a simple safety rule that older adults can apply in real situations.
+
 <img width="2000" height="1414" alt="Phishing Flyer" src="https://github.com/user-attachments/assets/6eebf3cf-9b7f-4c75-8d1a-3e9d6071d455" />
